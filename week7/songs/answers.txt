@@ -1,0 +1,15 @@
+
+# If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+I would characterize the as follows:
+1) Diverse Taste: If the listener's playlist includes a wide variety of genres and artists,
+    it suggests they have a diverse taste in music. They may enjoy exploring different musical styles and moods.
+
+2) Emotional Range: The emotional range of the songs can also give you an idea of the listener's emotional depth. For example,
+    if their playlist includes both upbeat and energetic songs as well as slower,more melancholic tunes, they may have a broad emotional spectrum.
+
+3) Lyrics vs. Instrumentals: The ratio of songs with lyrics to instrumental tracks can indicate whether the listener values lyrics
+    and storytelling in music or prefers purely instrumental compositions.
+
+ # Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+    . Long-Term Listening History: Analyze the listener's complete listening history, spanning several years or even decades,
+         if available. This would provide a more comprehensive view of their musical journey and evolving tastes.
